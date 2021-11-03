@@ -1,0 +1,10 @@
+Angular Fundamentals
+
+- Collecting data with angular forms and validation
+* Using models for type safety.
+You can either use an Interface or a class for models
+
+Interface naming convention 
+ex. export interface IEvent
+
+- Template-based forms
